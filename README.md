@@ -10,7 +10,7 @@ Space Shooter is a simple 2D shooting game developed using the Pygame library in
 
 ## Installation
 1. Clone the repository to your local machine: https://github.com/zohidjondev/SpaceShooter.git
-2. Navigate to the project directory
+2. Navigate to the project directory: cd SpaceShooter
 3. Install the required dependencies using pip: pip install -r requirements.txt
 
 ## Usage
